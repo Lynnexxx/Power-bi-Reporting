@@ -14,7 +14,7 @@ L'objectif est de fournir une vision claire de la **performance globale**, du **
 ---
 
 ## Page 1 : Vue d’ensemble du portefeuille
-![Dashboard Page 1](https://github.com/Lynnexxx/Power-bi-Reporting/tree/2c10e3ca7700ad42d0aabe5ea627ab1ecee5f0c4/Bank%20Loan%20Application/images/Page%201.png)
+![Dashboard Page 1](https://github.com/Lynnexxx/Power-bi-Reporting/blob/7db29196f515bb76cbeb822a7a1ccf3f39d676d5/Bank%20Loan%20Application/images/Page%201.png)
 
 Cette page fournit une lecture synthétique de la **santé globale du portefeuille** à l’aide de KPI clés :
 
@@ -35,7 +35,7 @@ Un portefeuille dynamique, rentable et maîtrisé, qui pose les bases pour analy
 ---
 
 ##  Page 2 : Profil des emprunteurs
-![Dashboard Page 2](https://github.com/Lynnexxx/Power-bi-Reporting/tree/2c10e3ca7700ad42d0aabe5ea627ab1ecee5f0c4/Bank%20Loan%20Application/images/Page%202.png)
+![Dashboard Page 2](https://github.com/Lynnexxx/Power-bi-Reporting/blob/7db29196f515bb76cbeb822a7a1ccf3f39d676d5/Bank%20Loan%20Application/images/Page%202.png)
 
 Cette page répond à la question **"Qui emprunte ?"** en analysant la solvabilité, les comportements et les opportunités.
 
@@ -58,7 +58,7 @@ Les emprunteurs sont stables, solvables et les meilleurs profils présentent des
 ---
 
 ## Page 3 : Performance et risques
-![Dashboard Page 3](https://github.com/Lynnexxx/Power-bi-Reporting/tree/2c10e3ca7700ad42d0aabe5ea627ab1ecee5f0c4/Bank%20Loan%20Application/images/Page%203.png)
+![Dashboard Page 3](https://github.com/Lynnexxx/Power-bi-Reporting/blob/7db29196f515bb76cbeb822a7a1ccf3f39d676d5/Bank%20Loan%20Application/images/Page%203.png)
 
 Cette dernière page évalue la performance réelle du portefeuille via remboursements, défauts et tendances :
 
