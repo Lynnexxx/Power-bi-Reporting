@@ -13,7 +13,7 @@ L'objectif est d'obtenir une vision claire de la **valeur des biens**, des **dyn
 ---
 
 ## Page 1 : Analyse par type de bien  
-![Dashboard Page 1](https://github.com/Lynnexxx/Power-bi-Reporting/blob/main/Real%20Estate%20Denmark/images/Page%201.png)
+![Dashboard Page 1](https://github.com/Lynnexxx/Power-bi-Reporting/blob/47838b425439bfd4770d0474174b4b7cadb9ae81/Housing%20Data%20Analysis/Images/Page%201.png)
 
 Cette première page offre une vue comparative des différents types de logements danois : prix, surface, rendement, inflation et taux d'intérêt.
 
@@ -29,7 +29,7 @@ Les types de biens influencent fortement la valeur et le rendement. Les "Farms" 
 ---
 
 ## Page 2 : Performance des ventes  
-![Dashboard Page 2](https://github.com/Lynnexxx/Power-bi-Reporting/blob/main/Real%20Estate%20Denmark/images/Page%202.png)
+![Dashboard Page 2](https://github.com/Lynnexxx/Power-bi-Reporting/blob/47838b425439bfd4770d0474174b4b7cadb9ae81/Housing%20Data%20Analysis/Images/Page%202.png)
 
 Cette page explore la **valeur totale des ventes**, les **prix au m²** par région et par **type de transaction**.
 
@@ -47,7 +47,7 @@ Les régions urbanisées concentrent les ventes et affichent des prix plus élev
 ---
 
 ## Page 3 : Vue d’ensemble du marché  
-![Dashboard Page 3](https://github.com/Lynnexxx/Power-bi-Reporting/blob/main/Real%20Estate%20Denmark/images/Page%203.png)
+![Dashboard Page 3](https://github.com/Lynnexxx/Power-bi-Reporting/blob/47838b425439bfd4770d0474174b4b7cadb9ae81/Housing%20Data%20Analysis/Images/Page%203.png)
 
 Cette page fournit une lecture macro du marché immobilier danois, incluant tendances temporelles, types de ventes et évolutions régionales.
 
