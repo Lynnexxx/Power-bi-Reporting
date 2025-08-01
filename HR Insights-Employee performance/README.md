@@ -19,7 +19,7 @@ L’objectif est double :
 ---
 
 ## Page 1 : Vue d’ensemble des collaborateurs  
-![Dashboard Page 1]https://github.com/Lynnexxx/Power-bi-Reporting/blob/b379a9df102be81c44612719c0a2b1e1b49e5cfa/HR%20Insights-Employee%20performance/Images/Page%201-HR.png)
+![Dashboard Page 1](https://github.com/Lynnexxx/Power-bi-Reporting/blob/b379a9df102be81c44612719c0a2b1e1b49e5cfa/HR%20Insights-Employee%20performance/Images/Page%201-HR.png)
 
 Cette première page fournit une vue agrégée de la population analysée, en croisant des indicateurs comportementaux et organisationnels.
 
@@ -45,7 +45,7 @@ Cette page pose les bases d’une lecture à 360° du climat social. Elle permet
 ---
 
 ## Page 2 : Analyse des facteurs de démission  
-![Dashboard Page 2]https://github.com/Lynnexxx/Power-bi-Reporting/blob/b379a9df102be81c44612719c0a2b1e1b49e5cfa/HR%20Insights-Employee%20performance/Images/Page%202-HR.png)
+![Dashboard Page 2](https://github.com/Lynnexxx/Power-bi-Reporting/blob/b379a9df102be81c44612719c0a2b1e1b49e5cfa/HR%20Insights-Employee%20performance/Images/Page%202-HR.png)
 
 Cette page explore les causes possibles des départs volontaires, via des corrélations entre les variables RH et le statut de démission.
 
