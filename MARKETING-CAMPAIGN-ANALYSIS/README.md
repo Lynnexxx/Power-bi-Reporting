@@ -1,4 +1,4 @@
-# MARKETING-CAMPAIGN-ANALYSIS
+# Marketing Campaign Analysis
 
 Les données sont issues d’un fichier CSV collectant les performances publicitaires quotidiennes d'une enseigne de prêt-à-porter basée au Royaume-Uni, sur plusieurs mois.  
 🔗 Données disponibles sur demande.
