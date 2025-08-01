@@ -1,6 +1,6 @@
 
 # Technical Support Performance Dashboard 
-Les données sont issues d’un cas réel de centre de support technique, simulé dans le cadre du **ZoomCharts Power BI Challenge – Mai 2024**.  
+Les données sont issues d’un cas réel de centre de support technique
 
 ## Objectif du projet
 
@@ -21,7 +21,7 @@ Ce tableau de bord permet de répondre aux questions clés suivantes :
 ---
 
 ## Page 1 : Volume et dynamique des tickets  
-**Dashboard Page 1 – Ticket Volume Trends**
+[Dashboard Page 1](https://github.com/Lynnexxx/Power-bi-Reporting/blob/bff0b67e06c46a51f267f1e24c9d32bd4c87275c/Technical%20Support%20Analysis/Images/Page%201-Tech%20Support.png)
 
 Cette page permet d’observer comment évolue la charge du centre de support.
 
@@ -43,6 +43,9 @@ Cette page met en évidence les **plages horaires critiques**, le **canal domina
 
 ## Page 2 : Délai de traitement et respect des SLA  
 **Dashboard Page 2 – SLA Performance**
+[Dashboard Page 2](https://github.com/Lynnexxx/Power-bi-Reporting/blob/bff0b67e06c46a51f267f1e24c9d32bd4c87275c/Technical%20Support%20Analysis/Images/Page%202-Tech%20Support-Priority.png)
+[Dashboard Page 2-Support Day type](https://github.com/Lynnexxx/Power-bi-Reporting/blob/bff0b67e06c46a51f267f1e24c9d32bd4c87275c/Technical%20Support%20Analysis/Images/Page%202-Tech%20Support-dailytype.png)
+[Dashboard Page 2-Support Priority](https://github.com/Lynnexxx/Power-bi-Reporting/blob/bff0b67e06c46a51f267f1e24c9d32bd4c87275c/Technical%20Support%20Analysis/Images/Page%202-Tech%20Support-Priority.png)
 
 Cette section se concentre sur l’**efficacité opérationnelle** et le respect des engagements de service.
 
