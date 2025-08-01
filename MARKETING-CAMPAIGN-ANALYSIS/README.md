@@ -18,8 +18,7 @@ L’objectif est de mesurer les performances globales et détaillées (coût, cl
 ---
 
 ## Page 1 : Vue d’ensemble des performances marketing  
-**Dashboard Page 1 – Overview**
-https://github.com/Lynnexxx/Power-bi-Reporting/blob/c6ea2a158f860254cffb89883a8b93170c5055d1/MARKETING-CAMPAIGN-ANALYSIS/Images/Page%201-Market.png
+![Dashboard Page 1](https://github.com/Lynnexxx/Power-bi-Reporting/blob/c6ea2a158f860254cffb89883a8b93170c5055d1/MARKETING-CAMPAIGN-ANALYSIS/Images/Page%201-Market.png)
 
 Cette première page propose une vision synthétique des campagnes sur l’ensemble de la période analysée.
 
@@ -45,8 +44,7 @@ Cette page montre une campagne globalement rentable, portée par Instagram en co
 ---
 
 ## Page 2 : Analyse comparative des campagnes publicitaires  
-**Dashboard Page 2 – Performance**
-https://github.com/Lynnexxx/Power-bi-Reporting/blob/c6ea2a158f860254cffb89883a8b93170c5055d1/MARKETING-CAMPAIGN-ANALYSIS/Images/Page%202-Market.png
+![Dashboard Page 2](https://github.com/Lynnexxx/Power-bi-Reporting/blob/c6ea2a158f860254cffb89883a8b93170c5055d1/MARKETING-CAMPAIGN-ANALYSIS/Images/Page%202-Market.png)
 
 Cette page explore plus en détail les performances **par type de publicité**, **par canal**, et **par mois**.
 
